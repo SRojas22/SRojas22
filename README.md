@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I’m Susana 👋</h1>
+<h1 align="center">Susana Rojas :) </h1>
 
 <p align="center">
   CS @ FIU • Software + AI
