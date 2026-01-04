@@ -1,7 +1,7 @@
 <h1 align="center">Susana Rojas :) </h1>
 
 <p align="center">
-  CS @ FIU • Software + AI
+  CS @ FIU + math • Software + AI
 </p>
 
 <p align="center">
