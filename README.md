@@ -23,15 +23,16 @@
 **ML / CV:** OpenCV, MediaPipe  
 **Tools:** Git, GitHub, VS Code
 
-<p>
-  <img src="https://img.shields.io/badge/Python-000?logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-000?logo=javascript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-000?logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-000?logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-000?logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenCV-000?logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-000?logo=git&logoColor=white" />
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50"/>
 </p>
+
 
 ---
 
