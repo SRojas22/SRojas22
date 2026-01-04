@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I’m Susana 👋</h1>
 
 <p align="center">
-  CS @ FIU • Software + AI • Building high-impact products
+  CS @ FIU • Software + AI
 </p>
 
 <p align="center">
