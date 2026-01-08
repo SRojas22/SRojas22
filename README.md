@@ -12,12 +12,12 @@
 
 ---
 
-### 🚀 What I’m up to
+### What I’m up to
 - Building: **GuitarMotion** (computer vision + feedback)
 - Learning: **ML, System Design, and building an app**
 - Exploring: **Computer Vision + AI apps**
 
-### 🧰 Tech I use
+### Tech I use
 
 **Languages:**  
 Python, JavaScript, Java, SQL  
